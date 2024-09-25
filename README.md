@@ -60,6 +60,31 @@
 19. [Rotate](#rotate)
 20. [Demo](#demo)
 
+
+## Navigation
+
+1. [How to Use](#how-to-use) 소개
+2. [Types](#types) 취미
+3. [Color](#color) 경력
+4. [Custom Color List](#custom-color-list) 자격증
+5. [Section](#section) STACKS
+6. [Reversal](#reversal) Linkedin
+7. [Height](#height) 기타
+8. [Text](#text)
+9. [Desc](#desc)
+10. [Text Background](#text-background)
+11. [Text Animation](#text-animation)
+12. [Font Color](#fontcolor)
+13. [Font Size](#fontsize)
+14. [Font Align - X](#fontalign)
+15. [Font Align - Y](#fontaligny)
+16. [Desc Size](#descsize)
+17. [Desc Align - X](#descalign)
+18. [Desc Align - Y](#descaligny)
+19. [Rotate](#rotate)
+20. [Demo](#demo)
+
+
 Any of Idea -> [Idea-Issue](https://github.com/kyechan99/capsule-render/labels/Idea) or [PR](https://github.com/kyechan99/capsule-render/pulls)
 
 # How to Use
