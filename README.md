@@ -1,9 +1,4 @@
-<!--
-## Hi there 👋
 
-## Hi there 👋
-안녕하세요
--->
 # ✨jhkum1122 repository ✨
 
 
@@ -57,29 +52,6 @@
 
 
 ## Front-end
-
-<details>
-  <summary>프레임워크 및 라이브러리</summary>
-  
-  - **`React`**: 프론트엔드 UI 라이브러리
-   - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-  - **`React Router DOM`**: 클라이언트 사이드 라우팅
-  - **Axios**: HTTP 요청 처리
-  - **Framer Motion**: 애니메이션 라이브러리
-  - **React Icons**: 아이콘 컴포넌트
-  - **React Markdown**: 마크다운 렌더링
-  - **JWT Decode**: JWT 토큰 디코딩
-
-  - **프레임워크**: 프론트엔드 UI 라이브러리
-    - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-    - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-    - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-    - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-  - **React Router DOM**: 클라이언트 사이드 라우팅
-
-</details>
-
-
 <details>
   <summary>프레임워크 및 라이브러리</summary>
   
@@ -93,7 +65,7 @@
       - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
 
     </details>
-  
+  <summary>인증 및 세션 관리</summary>
   - **`React Router DOM`**: 클라이언트 사이드 라우팅
   - **Axios**: HTTP 요청 처리
   - **Framer Motion**: 애니메이션 라이브러리
