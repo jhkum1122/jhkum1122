@@ -12,29 +12,11 @@
 > 매순간 최선을 다하며 열심히 사는 엔지니어의 깃허브 입니다.
 
 
-# Navigation 목차
+# 목차
 
 1. [경력](#경력) 
 2. [STACKS](#STACKS) 
 3. [기타](#기타) 
-4. [Custom Color List](#custom-color-list) 자격증
-5. [Section](#section) STACKS
-6. [Reversal](#reversal) Linkedin
-7. [Height](#height) 기타
-8. [Text](#text)
-9. [Desc](#desc)
-10. [Text Background](#text-background)
-11. [Text Animation](#text-animation)
-12. [Font Color](#fontcolor)
-13. [Font Size](#fontsize)
-14. [Font Align - X](#fontalign)
-15. [Font Align - Y](#fontaligny)
-16. [Desc Size](#descsize)
-17. [Desc Align - X](#descalign)
-18. [Desc Align - Y](#descaligny)
-19. [Rotate](#rotate)
-20. [Demo](#demo)
-
 
 <details>
   <summary>접기/펴기 버튼</summary>
@@ -52,6 +34,28 @@
 ## 경력
 
 ## STACKS
+
+<details>
+  <summary>언어 & 프레임워크</summary>
+  
+  여기에 접혔을 때 보여질 내용을 작성하세요.
+  
+  - 리스트 항목 1
+  - 리스트 항목 2
+  - 리스트 항목 3
+
+</details>
+
+<details>
+  <summary>인프라 & 툴</summary>
+  
+  여기에 접혔을 때 보여질 내용을 작성하세요.
+  
+  - 리스트 항목 1
+  - 리스트 항목 2
+  - 리스트 항목 3
+
+</details>
 
 ## 기타
 
