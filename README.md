@@ -37,7 +37,7 @@
 20. [Demo](#demo)
 
 
-## Navigation
+## Navigation 목차
 
 1. [How to Use](#how-to-use) 소개
 2. [Types](#types) 취미
