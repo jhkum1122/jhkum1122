@@ -6,36 +6,12 @@
 -->
 ## ✨jhkum1122 repository ✨
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kumjh%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile!&descAlignY=71&descAlign=62" width="100%" />
-</p>
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p> 
-<p align="center"> 
-  <a href="README.md">English</a> 
-  ·
-  <a href="/docs/README_kr.md">한국어</a> 
-  .
-  <a href="/docs/README_fr.md">Français</a>
-  .
-  <a href="/docs/README_de.md">Deutsch</a>
-</p>
 <br/>
 
-> Looking for someone to translate this README.
+> 매순간 최선을 다하며 열심히 사는 엔지니어의 깃허브 입니다.
 
-> Supports simple [Generator](https://capsule-render.vercel.app/).
-> However, we recommend reading the README for more detailed adjustments.
+
 
 ## Navigation
 
