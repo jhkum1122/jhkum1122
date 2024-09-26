@@ -39,7 +39,7 @@
 
 ## Navigation 목차
 
-1. [How to Use](#how-to-use) 소개
+1. [How to Use](## 경력) 소개
 2. [Types](#types) 취미
 3. [Color](#color) 경력
 4. [Custom Color List](#custom-color-list) 자격증
@@ -63,13 +63,13 @@
 
 Any of Idea -> [Idea-Issue](https://github.com/kyechan99/capsule-render/labels/Idea) or [PR](https://github.com/kyechan99/capsule-render/pulls)
 
-# 테스트
+## 테스트
 
-# 경력
+## 경력
 
-# STACKS
+## STACKS
 
-# 기타
+## 기타
 
 
 # How to Use
