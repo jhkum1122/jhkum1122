@@ -70,6 +70,10 @@
   - **React Markdown**: 마크다운 렌더링
   - **JWT Decode**: JWT 토큰 디코딩
 
+  - **React**: 프론트엔드 UI 라이브러리
+    - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+  - **React Router DOM**: 클라이언트 사이드 라우팅
+
 </details>
 
 <details>
