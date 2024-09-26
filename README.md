@@ -39,9 +39,9 @@
 
 ## Navigation 목차
 
-1. [경력](#경력) 소개
-2. [Types](#types) 취미
-3. [Color](#color) 경력
+1. [경력](#경력) 
+2. [STACKS](#STACKS) 
+3. [기타](#기타) 
 4. [Custom Color List](#custom-color-list) 자격증
 5. [Section](#section) STACKS
 6. [Reversal](#reversal) Linkedin
