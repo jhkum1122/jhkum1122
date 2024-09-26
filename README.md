@@ -117,8 +117,12 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`npm`**: 패키지 관리 도구로, 의존성 설치 및 스크립트 실행을 관리
-      - **`TypeScript`**: 타입스크립트 사용
+      - **`AWS`**: EC2, RDB, Route53 등 다양한 AWS 사용
+      - **`Centos`**: 중계서버, ePC, 이미지서버 등 다양한 Linux 서버
+      - **`ubuntu`**: 실제 서버에 이식하기 전에 테스트 서버
+      - **`SELinux`**: ePC Gateway 서버에 이식하기 전에 테스트 서버
+      - **`WSL`**: ePC MME 서버에 이식하기 전에 테스트 서버, MME 서버도 같은 환경
+      - **`VOS`**: strarus 중계서버로 사용된 운용체제
     </details>    
 </details>
 
@@ -131,12 +135,12 @@ https://capsule-render.vercel.app/api?
 <hr/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Gangnam-gu Innovative Talent Center
+- 🌱 I’m currently learning java, springframework
+- 👯 I’m looking to collaborate on team7
+- 🤔 I’m looking for help with job search
+- 💬 Ask me about e-mail
+- 📫 How to reach me: kumjh1122@gmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: still seeking for a job ^^;;
 
