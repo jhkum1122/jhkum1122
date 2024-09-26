@@ -16,7 +16,7 @@
 
 1. [경력](#경력) 
 2. [STACKS](#STACKS) 
-3. [기타](#기타) 
+3. [기타](#기타)
 
 <details>
   <summary>접기/펴기 버튼</summary>
@@ -42,7 +42,7 @@
   - 리스트 항목 1
   - 리스트 항목 2
   - 리스트 항목 3
-
+</details>
 
 <details>
   <summary>인프라 & 툴</summary>
