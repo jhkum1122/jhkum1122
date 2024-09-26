@@ -140,6 +140,13 @@
 </details>
 
 
+# Microsoft Office Specialist
+
+![MOS Excel Icon](https://upload.wikimedia.org/wikipedia/commons/1/19/Microsoft_Excel_2013-2021_logo.svg)
+
+이 프로젝트는 Microsoft Office Specialist Excel 인증 준비를 위한 것입니다.
+
+
 
 ## 기타
 ```
