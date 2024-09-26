@@ -143,12 +143,12 @@
 
 ## 기타
 ```
-- 정보터리 기사
-- Excel Expert 2007
-- 다양한 연수과정 이수
-- 다수의 회사에서 관심을 받은 프로젝트 이력
-- ICT에 관심이 많습니다.🦾
-- 사람들과 어울리는 것을 좋아합니다.🧑‍🤝‍🧑
+- 정보터리 기사 ⚙️
+- Excel Expert 2007 ![Excel Badge](https://img.shields.io/badge/Excel-Spreadsheet-brightgreen)
+- 다양한 연수과정 이수 🦾
+- 다수의 회사에서 관심을 받은 프로젝트 이력 🧾
+- ICT에 관심이 많습니다. 💻
+- 사람들과 어울리는 것을 좋아합니다. 🧑‍🤝‍🧑
 ```
 <hr/>
 Here are some ideas to get you started:
