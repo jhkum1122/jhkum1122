@@ -159,7 +159,7 @@ https://example.com/path-to-your-mos-excel-icon.png
 ## 기타
 ```
 - 정보터리 기사 ⚙️
-- Excel Expert 2007 🔼 Excel
+- Excel Expert 2007 ✏️
 - 다양한 연수과정 이수 🦾
 - 다수의 회사에서 관심을 받은 프로젝트 이력 🧾
 - ICT에 관심이 많습니다. 💻
