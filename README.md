@@ -165,7 +165,7 @@
       - **`ubuntu`**: 실제 서버에 이식하기 전에 테스트 서버
       - **`SELinux`**: ePC Gateway 서버에 이식하기 전에 테스트 서버
       - **`WSL`**: ePC MME 서버에 이식하기 전에 테스트 서버, MME 서버도 같은 환경
-      - **`VOS`**: strarus 중계서버로 사용된 운용체제
+      - **`VOS`**: stratus 중계서버로 사용된 운용체제
     </details>    
 </details>
 
