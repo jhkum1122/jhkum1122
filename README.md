@@ -71,32 +71,58 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`React Router DOM`**: 클라이언트 사이드 라우팅
-      - **`Axios`**: HTTP 요청 처리
-      - **`Framer Motion`**: 애니메이션 라이브러리
-      - **`React Icons`**: 아이콘 컴포넌트
-      - **`React Markdown`**: 마크다운 렌더링
-      - **`JWT Decode`**: JWT 토큰 디코딩
-
+      - **`Springframework`**: 백엔드 애플리케이션의 주요 프레임워크
+      - **`Springboot`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`Express`**: 백엔드 애플리케이션의 주요 서버 프레임워크
+      
     </details>
 
-  - 스타일링
+  - 인증 및 세션 관리
     <details>
       <summary>자세히 보기</summary>
       
-      - **`Tailwind CSS`**: 유틸리티 기반의 CSS 프레임워크
-      - **`DaisyUI`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
-      - **`@tailwindcss/forms`**: Tailwind의 form 스타일링 확장
-      - **`@tailwindcss/typography`**: 타이포그래피 확장(Markdown 등)
+      - **`passport`**: 유틸리티 기반의 CSS 프레임워크
+      - **`passport-kakao`**: 카카오 인증 지원
+      - **`passport-jwt`**: JWT 토큰 인증 처리
+      - **`jsonwebtoken`**: JWT 토큰 생성 및 검증
+      - **`express-session`**: 세션 관리
     </details>
-  - 빌드 및 개발 도구
+  - 데이터베이스 및 ORM
     <details>
       <summary>자세히 보기</summary>
       
-      - **`npm`**: 패키지 관리 도구로, 의존성 설치 및 스크립트 실행을 관리
-      - **`TypeScript`**: 타입스크립트 사용
+      - **`tibero`**: 패키지 관리 도구로, 의존성 설치 및 스크립트 실행을 관리
+      - **`oracle`**: 타입스크립트 사용
+      - **`mysql`**: 타입스크립트 사용
+      - **`jpa`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
+      - **`mybatis`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
+      - **`ibatis`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
+      - **`sequelize`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
+      - **`sequelize-cli`**: Sequelize 데이터 마이그레이션 도구
     </details>    
+  - 파일 업로드 및 파싱
+    <details>
+      <summary>자세히 보기</summary>
+      
+      - **`multer`**: 파일 업로드 처리 미들웨어
+      - **`body-parser`**: 요청 본문 파싱
+      - **`cookie-parser`**: 쿠키 파싱
+    </details>    
+
+  - API
+    <details>
+      <summary>자세히 보기</summary>
+      
+      - **`swagger-jsdoc`**: swagger 문서 생성
+      - **`swagger-ui-express`**: swagger UI를 springframework에서 생성
+    </details>    
+  - 환경 변수 관리
+    <details>
+      <summary>자세히 보기</summary>
+      
+      - **`swagger-jsdoc`**: swagger 문서 생성
+      - **`swagger-ui-express`**: swagger UI를 springframework에서 생성
+    </details>       
 </details>
 
 <details>
