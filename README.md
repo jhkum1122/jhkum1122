@@ -71,8 +71,8 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`Springframework`**: 백엔드 애플리케이션의 주요 프레임워크
-      - **`Springboot`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`Springframework`**: 더 많은 유연성, 모듈을 제공하며 복잡한 애플리케이션에 적합한 프레임워크
+      - **`Springboot`**: Springframework를 기반으로 빠르고 쉽게 애플리케이션을 개발하도록 설계
       - **`Express`**: 백엔드 애플리케이션의 주요 서버 프레임워크
       
     </details>
@@ -86,19 +86,20 @@
       - **`passport-jwt`**: JWT 토큰 인증 처리
       - **`jsonwebtoken`**: JWT 토큰 생성 및 검증
       - **`express-session`**: 세션 관리
+      - **`cors`**: 클라이언트 애플리케이션이 서버와 안전하게 통신할 수 있게 인증 지원
     </details>
   - 데이터베이스 및 ORM
     <details>
       <summary>자세히 보기</summary>
       
-      - **`tibero`**: 패키지 관리 도구로, 의존성 설치 및 스크립트 실행을 관리
-      - **`oracle`**: 타입스크립트 사용
-      - **`mysql`**: 타입스크립트 사용
-      - **`jpa`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
-      - **`mybatis`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
-      - **`ibatis`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
-      - **`sequelize`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping)
-      - **`sequelize-cli`**: Sequelize 데이터 마이그레이션 도구
+      - **`tibero`**: 높은 성능과 호환성을 제공하는 RDB 솔루션, 효율적인 데이터 관리
+      - **`oracle`**: 기업의 요구에 부합하는 강력한 DB솔루션, 폭 넓은 플랫폼 제공
+      - **`mysql`**: 강력하고 유연한 RDB 관리 시스템, 사용이 용이하며 성능이 좋음
+      - **`jpa`**: 자바에서 DB와 상호작용을 간편하고 효율적으로 수행할 수 있도록 도움
+      - **`mybatis`**: sql 쿼리를 직접 작성할 수 있는 유연성, 객체 매핑 기능을 제공하는 DB접근 프레임워크
+      - **`ibatis`**: sql과 Java 객체 간의 매핑 기능을 제공하는 프레임워크
+      - **`sequelize`**: mysql과의 상호작용을 위한 ORM(Object-Relatinal Mapping) 라이브러리
+      - **`sequelize-cli`**: Sequelize 데이터 마이그레이션 도구 
     </details>    
   - 파일 업로드 및 파싱
     <details>
@@ -136,13 +137,13 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`React Router DOM`**: 클라이언트 사이드 라우팅
-      - **`Axios`**: HTTP 요청 처리
-      - **`Framer Motion`**: 애니메이션 라이브러리
-      - **`React Icons`**: 아이콘 컴포넌트
-      - **`React Markdown`**: 마크다운 렌더링
-      - **`JWT Decode`**: JWT 토큰 디코딩
+      - **`TReact`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`TReact Router DOM`**: 클라이언트 사이드 라우팅
+      - **`TAxios`**: HTTP 요청 처리
+      - **`TFramer Motion`**: 애니메이션 라이브러리
+      - **`TReact Icons`**: 아이콘 컴포넌트
+      - **`TReact Markdown`**: 마크다운 렌더링
+      - **`TJWT Decode`**: JWT 토큰 디코딩
 
     </details>
 
@@ -150,22 +151,22 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`Tailwind CSS`**: 유틸리티 기반의 CSS 프레임워크
-      - **`DaisyUI`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
-      - **`@tailwindcss/forms`**: Tailwind의 form 스타일링 확장
-      - **`@tailwindcss/typography`**: 타이포그래피 확장(Markdown 등)
+      - **`TTailwind CSS`**: 유틸리티 기반의 CSS 프레임워크
+      - **`TDaisyUI`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
+      - **`T@tailwindcss/forms`**: Tailwind의 form 스타일링 확장
+      - **`T@tailwindcss/typography`**: 타이포그래피 확장(Markdown 등)
     </details>
     
-  - 인프라
+  - 기타 인프라
     <details>
       <summary>자세히 보기</summary>
       
-      - **`AWS`**: EC2, RDB, Route53 등 다양한 AWS 사용
-      - **`Centos`**: 중계서버, ePC, 이미지서버 등 다양한 Linux 서버
-      - **`ubuntu`**: 실제 서버에 이식하기 전에 테스트 서버
-      - **`SELinux`**: ePC Gateway 서버에 이식하기 전에 테스트 서버
-      - **`WSL`**: ePC MME 서버에 이식하기 전에 테스트 서버, MME 서버도 같은 환경
-      - **`VOS`**: stratus 중계서버로 사용된 운용체제
+      - **`TAWS`**: EC2, RDB, Route53 등 다양한 AWS 사용
+      - **`TCentos`**: 중계서버, ePC, 이미지서버 등 다양한 Linux 서버
+      - **`Tubuntu`**: 실제 서버에 이식하기 전에 테스트 서버
+      - **`TSELinux`**: ePC Gateway 서버에 이식하기 전에 테스트 서버
+      - **`TWSL`**: ePC MME 서버에 이식하기 전에 테스트 서버, MME 서버도 같은 환경
+      - **`TVOS`**: stratus 중계서버로 사용된 운용체제
     </details>    
 </details>
 
@@ -200,5 +201,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about e-mail
 - 📫 How to reach me: kumjh1122@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: still seeking for a job ^^;;
+- ⚡ Fun fact: ...
 
