@@ -188,6 +188,7 @@
 ```
 
 ## 이력서
+[여기]([https://github.com/jhkum1122/findus/blob/master/해외_API명세서.xlsx](https://github.com/jhkum1122/jhkum1122/blob/main/%EA%B8%88%EC%A0%95%ED%98%B8851122%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81V2.pdf))에서 pdf 파일을 다운로드할 수 있습니다.
 
 <hr/>
 Here are some ideas to get you started:
