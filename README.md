@@ -66,6 +66,7 @@
 
     </details>
   <summary>인증 및 세션 관리</summary>
+  
   - **`React Router DOM`**: 클라이언트 사이드 라우팅
   - **Axios**: HTTP 요청 처리
   - **Framer Motion**: 애니메이션 라이브러리
