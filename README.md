@@ -16,6 +16,31 @@
 ## 경력
 
 ## STACKS
+<details>
+  <summary>Front-end</summary>
+  
+  - 프론트엔드 UI 라이브러리
+    <details>
+      <summary>자세히 보기</summary>
+      
+      - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`React Router DOM`**: 클라이언트 사이드 라우팅
+      - **`Axios`**: HTTP 요청 처리
+      - **`Framer Motion`**: 애니메이션 라이브러리
+      - **`React Icons`**: 아이콘 컴포넌트
+      - **`React Markdown`**: 마크다운 렌더링
+      - **`JWT Decode`**: JWT 토큰 디코딩
+
+    </details>
+    
+  - **`React Router DOM`**: 클라이언트 사이드 라우팅
+  - **Axios**: HTTP 요청 처리
+  - **Framer Motion**: 애니메이션 라이브러리
+  - **React Icons**: 아이콘 컴포넌트
+  - **React Markdown**: 마크다운 렌더링
+  - **JWT Decode**: JWT 토큰 디코딩
+
+</details>
 
 
 ## Front-end
