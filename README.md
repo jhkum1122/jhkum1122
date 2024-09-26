@@ -150,6 +150,9 @@ https://example.com/path-to-your-mos-excel-icon.png
 
 ![MOS Excel Icon](https://example.com/path-to-your-mos-excel-icon.png)
 
+![AWS](https://img.shields.io/badge/AWS-EC2-blue)
+
+
 
 
 
