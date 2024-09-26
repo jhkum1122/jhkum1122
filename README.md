@@ -60,6 +60,7 @@
 
 <details>
   <summary>프레임워크 및 라이브러리</summary>
+  
   - **<u>React</u>**: 프론트엔드 UI 라이브러리
   - **React Router DOM**: 클라이언트 사이드 라우팅
   - **Axios**: HTTP 요청 처리
