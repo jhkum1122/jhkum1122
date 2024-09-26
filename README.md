@@ -35,7 +35,7 @@
 ## STACKS
 
 <details>
-  <summary>언어 & 프레임워크</summary>
+  <summary>Front-end</summary>
   
   여기에 접혔을 때 보여질 내용을 작성하세요.
   
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>인프라 & 툴</summary>
+  <summary>Back-end</summary>
   
   여기에 접혔을 때 보여질 내용을 작성하세요.
   
@@ -70,7 +70,7 @@
   - **React Markdown**: 마크다운 렌더링
   - **JWT Decode**: JWT 토큰 디코딩
 
-  - **React**: 프론트엔드 UI 라이브러리
+  - **프레임워크**: 프론트엔드 UI 라이브러리
     - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
     - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
     - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
