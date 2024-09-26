@@ -43,9 +43,7 @@
   - 리스트 항목 1
   - 리스트 항목 2
   - 리스트 항목 3
-<details>
-  <summary>언어 & 프레임워크</summary>
-</details>
+
 
 <details>
   <summary>인프라 & 툴</summary>
