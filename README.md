@@ -13,18 +13,6 @@
 2. [STACKS](#STACKS) 
 3. [기타](#기타)
 
-<details>
-  <summary>접기/펴기 버튼</summary>
-  
-  여기에 접혔을 때 보여질 내용을 작성하세요.
-  
-  - 리스트 항목 1
-  - 리스트 항목 2
-  - 리스트 항목 3
-
-</details>
-
-
 ## 경력
 
 ## STACKS
@@ -34,18 +22,17 @@
 <details>
   <summary>Front-end</summary>
   
-  - **`React`**: 프론트엔드 UI 라이브러리
+  - 프론트엔드 UI 라이브러리
     <details>
       <summary>자세히 보기</summary>
       
       - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
       - **`React Router DOM`**: 클라이언트 사이드 라우팅
-      - **`Axios**: HTTP 요청 처리
-      - **`Framer Motion**: 애니메이션 라이브러리
-      - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`React Router DOM`**: 클라이언트 사이드 라우팅
-      - **`Axios**: HTTP 요청 처리
-      - **`Framer Motion**: 애니메이션 라이브러리
+      - **`Axios`**: HTTP 요청 처리
+      - **`Framer Motion`**: 애니메이션 라이브러리
+      - **`React Icons`**: 아이콘 컴포넌트
+      - **`React Markdown`**: 마크다운 렌더링
+      - **`JWT Decode`**: JWT 토큰 디코딩
 
     </details>
     
