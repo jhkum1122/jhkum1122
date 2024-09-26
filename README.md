@@ -29,31 +29,10 @@
 
 ## STACKS
 
-<details>
-  <summary>Front-end</summary>
-  
-  여기에 접혔을 때 보여질 내용을 작성하세요.
-  
-  - 리스트 항목 1
-  - 리스트 항목 2
-  - 리스트 항목 3
-</details>
-
-<details>
-  <summary>Back-end</summary>
-  
-  여기에 접혔을 때 보여질 내용을 작성하세요.
-  
-  - 리스트 항목 1
-  - 리스트 항목 2
-  - 리스트 항목 3
-
-</details>
-
 
 ## Front-end
 <details>
-  <summary>프레임워크 및 라이브러리</summary>
+  <summary>Front-end</summary>
   
   - **`React`**: 프론트엔드 UI 라이브러리
     <details>
@@ -65,8 +44,7 @@
       - **`React`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
 
     </details>
-  <summary>인증 및 세션 관리</summary>
-  
+    
   - **`React Router DOM`**: 클라이언트 사이드 라우팅
   - **Axios**: HTTP 요청 처리
   - **Framer Motion**: 애니메이션 라이브러리
