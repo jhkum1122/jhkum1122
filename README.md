@@ -146,6 +146,11 @@
 
 이 프로젝트는 Microsoft Office Specialist Excel 인증 준비를 위한 것입니다.
 
+https://example.com/path-to-your-mos-excel-icon.png
+
+![MOS Excel Icon](https://example.com/path-to-your-mos-excel-icon.png)
+
+
 
 
 ## 기타
