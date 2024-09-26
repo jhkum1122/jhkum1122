@@ -36,7 +36,16 @@
 20. [Demo](#demo)
 
 
-Any of Idea -> [Idea-Issue](https://github.com/kyechan99/capsule-render/labels/Idea) or [PR](https://github.com/kyechan99/capsule-render/pulls)
+<details>
+  <summary>접기/펴기 버튼</summary>
+  
+  여기에 접혔을 때 보여질 내용을 작성하세요.
+  
+  - 리스트 항목 1
+  - 리스트 항목 2
+  - 리스트 항목 3
+
+</details>
 
 ## 테스트
 
