@@ -117,10 +117,10 @@
       - **`swagger-ui-express`**: swagger UI를 springframework에서 생성
     </details>    
   - 환경 변수 관리
-    <details>
+    
       - **`swagger-jsdoc`**: swagger 문서 생성
       - **`swagger-ui-express`**: swagger UI를 springframework에서 생성
-    </details>       
+    
 </details>
 
 <details>
