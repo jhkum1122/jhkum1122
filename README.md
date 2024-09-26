@@ -118,8 +118,14 @@
     </details>    
   - 환경 변수 관리
     
-      - **`swagger-jsdoc`**: swagger 문서 생성
-      - **`swagger-ui-express`**: swagger UI를 springframework에서 생성
+      - **`dotenv`**: 환경 변수 관리
+  - 클라우드 서비스
+    
+      - **`aws-sdk`**: AWS 서비스와 상호작용
+  - HTTP 요청 처리
+    
+      - **`axios`**: HTTP 클라이언트 라이브러리
+      
     
 </details>
 
