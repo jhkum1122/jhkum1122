@@ -41,6 +41,13 @@
       - **`DaisyUI`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
       - **`@tailwindcss/forms`**: Tailwind의 form 스타일링 확장
       - **`@tailwindcss/typography`**: 타이포그래피 확장(Markdown 등)
+    </details>
+  - 빌드 및 개발 도구
+    <details>
+      <summary>자세히 보기</summary>
+      
+      - **`npm`**: 패키지 관리 도구로, 의존성 설치 및 스크립트 실행을 관리
+      - **`TypeScript`**: 타입스크립트 사용
     </details>    
 </details>
 
