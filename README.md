@@ -202,7 +202,7 @@
     </details>    
 </details>
 
-![AWS](https://img.shields.io/badge/AWS-EC2-blue)
+<!-- ![AWS](https://img.shields.io/badge/AWS-EC2-blue) -->
 
 ## 기타
 ```
