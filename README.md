@@ -137,15 +137,23 @@
     <details>
       <summary>자세히 보기</summary>
       
-      - **`TReact`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`TReact Router DOM`**: 클라이언트 사이드 라우팅
-      - **`TAxios`**: HTTP 요청 처리
-      - **`TFramer Motion`**: 애니메이션 라이브러리
-      - **`TReact Icons`**: 아이콘 컴포넌트
-      - **`TReact Markdown`**: 마크다운 렌더링
+      - **`eclipse`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`STS`**: 클라이언트 사이드 라우팅
+      - **`visual studio`**: HTTP 요청 처리
+      - **`vscode`**: 애니메이션 라이브러리
+      - **`AWS`**: 아이콘 컴포넌트
+      - **`MS Azure`**: 마크다운 렌더링
       - **`TJWT Decode`**: JWT 토큰 디코딩
 
     </details>
+- 형상관리
+    <details>
+      <summary>자세히 보기</summary>
+
+      - **`git`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`github`**: 클라이언트 사이드 라우팅
+      - **`svn`**: HTTP 요청 처리
+     </details>
 
   - 배포환경
     <details>
