@@ -146,14 +146,8 @@
       - **`TJWT Decode`**: JWT 토큰 디코딩
 
     </details>
-- 형상관리
-    <details>
-      <summary>자세히 보기</summary>
 
-      - **`git`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`github`**: 클라이언트 사이드 라우팅
-      - **`svn`**: HTTP 요청 처리
-     </details>
+
 
   - 배포환경
     <details>
