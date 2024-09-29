@@ -132,52 +132,76 @@
 
 <details>
   <summary>인프라 및 개발환경</summary>
+   
+  - 인프라
+     <details>
+      <summary>자세히 보기</summary>
+      
+      - **`AWS`**: 개발자와 기업이 애플리케이션을 구축 & 배포
+      - **`MS Azure`**: 클라이언트 기반 서비스 제공
+      - **`centos`**: 서버 운영체제로 사용, 다양한 인프라적인 요소를 제공
+      - **`ubuntu`**: 서버에서 널리 사용되는 운영체제
+      - **`wsl`**: 윈도우에서 리눅스 배포판을 실행하도록 해주는 서비스
+      - **`SElinux`**: centos의 보안 정책을 적용하여 시스템의 보안을 강화
+      - **`VOS(Virtual Operating System)`**: 고가용성 시스템, 신뢰성 있는 환경을 제공하는 운영체제
+      - **`NMS(Network Management System)`**: 네트워크를 모니터링하고 관리하는데 사용되는 시스템
+      - **`orange`**: 데이터베이스 보안과 관련하여 여러 기능 제공, 기업이 데이터 보호 및 준수
+      - **`gateone`**: 서버에 대한 원격 접근을 안전하게 관리하기 위해 사용
+      - **`tomcat`**: 서블릿 컨테이너, 오픈 소스 웹 서버
+      - **`nginx`**: 고성능 웹서버, 리버스 프록시 서버
+
+    </details>
   
   - 개발환경
      <details>
       <summary>자세히 보기</summary>
       
-      - **`eclipse`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
-      - **`STS`**: 클라이언트 사이드 라우팅
-      - **`visual studio`**: HTTP 요청 처리
-      - **`vscode`**: 애니메이션 라이브러리
-      - **`AWS`**: 아이콘 컴포넌트
-      - **`MS Azure`**: 마크다운 렌더링
-      - **`TJWT Decode`**: JWT 토큰 디코딩
+      - **`eclipse`**: 주로 Java 개발을 위한 오픈 소스 통합 개발 환경(IDE)
+      - **`STS(Spring Tool Suite)`**: 스프링 프레임워크를 사용한 애플리케이션 개발을 지원하는 통합 개발 환경(IDE)
+      - **`visual studio`**: 통합 개발 환경(IDE), 다양한 프로그래밍 언어와 플랫폼 지원
+      - **`vscode`**: 오픈 소스코드 편집기. 가벼우며 강력한 기능을 갖춘 편집기
+      - **`postman`**: 개발과 테스트를 위한 강력한 도구, 주로 RESTful API를 테스트
 
     </details>
+  
+  - 형상관리
+     <details>
+      <summary>자세히 보기</summary>
+      
+      - **`git`**: 분산 버전 관리 시스템, 소스코드와 파일의 변경 이력을 관리하는데 사용
+      - **`github`**: 웹 기반 플랫폼, 소스코드의 호스팅 및 협업을 위한 서비스
+      - **`svn`**: 소스코드 및 파일의 변경 이력을 관리하는데 사용
 
+    </details>
+  
+  - 협업
+     <details>
+      <summary>자세히 보기</summary>
+      
+      - **`notion`**: 프론트엔드 UI 라이브러리 (여기서 들여쓰기)
+      - **`slack`**: 클라이언트 사이드 라우팅
+
+    </details>
 
   - 배포환경
     <details>
       <summary>자세히 보기</summary>
       
-      - **`TTailwind CSS`**: 유틸리티 기반의 CSS 프레임워크
-      - **`TDaisyUI`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
-      - **`T@tailwindcss/forms`**: Tailwind의 form 스타일링 확장
-      - **`T@tailwindcss/typography`**: 타이포그래피 확장(Markdown 등)
+      - **`bamboo`**: 유틸리티 기반의 CSS 프레임워크
+      - **`jenkins`**: Tailwind와 함께 사용하는 UI 컴포넌트 라이브러리
+      - **`npm`**: Tailwind의 form 스타일링 확장
     </details>
     
   - 기타 인프라
     <details>
       <summary>자세히 보기</summary>
       
-      - **`TAWS`**: EC2, RDB, Route53 등 다양한 AWS 사용
-      - **`TCentos`**: 중계서버, ePC, 이미지서버 등 다양한 Linux 서버
-      - **`Tubuntu`**: 실제 서버에 이식하기 전에 테스트 서버
-      - **`TSELinux`**: ePC Gateway 서버에 이식하기 전에 테스트 서버
-      - **`TWSL`**: ePC MME 서버에 이식하기 전에 테스트 서버, MME 서버도 같은 환경
-      - **`TVOS`**: stratus 중계서버로 사용된 운용체제
+      - **`VMware`**: EC2, RDB, Route53 등 다양한 AWS 사용
+      - **`Virtualbox`**: 중계서버, ePC, 이미지서버 등 다양한 Linux 서버
     </details>    
 </details>
 
-
-
 ![AWS](https://img.shields.io/badge/AWS-EC2-blue)
-
-
-
-
 
 ## 기타
 ```
@@ -197,7 +221,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gangnam-gu Innovative Talent Center
 - 🌱 I’m currently learning java, springframework
-- 👯 I’m looking to collaborate on team7
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with job search
 - 💬 Ask me about e-mail
 - 📫 How to reach me: kumjh1122@gmail.com
